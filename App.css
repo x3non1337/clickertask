@@ -1,0 +1,13 @@
+.red {
+  color: #f50518;
+}
+
+.green{
+  color: #09c449;
+}
+
+body {
+  display: grid;
+  place-items: center stretch;
+  place-content: center ;
+}
